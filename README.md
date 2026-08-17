@@ -1,10 +1,6 @@
 # dsh-prompt-enhance
 
-> One-click prompt enhancement for the DeepSeek Harness (DSH) Web composer:
-> keep your original sentence, expand it into concrete, executable requirements —
-> with a rule-template fallback and one-click undo.
->
-> 为 DeepSeek Harness(DSH)Web 聊天输入框提供一键提示词增强:保留你的原句,扩写为具体可执行的要求——模型不可用时自动降级规则模板,增强后一键撤回。
+> DeepSeek Harness 输入框一键增强提示词:保留原句、一键撤回、模型不可用自动降级。One-click prompt enhance with undo.
 
 [中文说明](#功能特性) · [English](#features)
 

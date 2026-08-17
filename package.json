@@ -1,6 +1,6 @@
 {
   "name": "dsh-prompt-enhance",
-  "description": "Enhance your composer draft with one click: keep the original sentence and expand it into concrete, executable requirements (LLM-first with a rule-template fallback and one-click undo). / 一键增强输入框草稿:保留原句,扩写为具体可执行的要求(LLM 为主,规则模板兜底,可一键撤回)。",
+  "description": "DeepSeek Harness 输入框一键增强提示词:保留原句、一键撤回、模型不可用自动降级。One-click prompt enhance with undo.",
   "version": "0.1.0",
   "license": "MIT",
   "type": "module",
