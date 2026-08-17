@@ -1,0 +1,6 @@
+# dsh-prompt-enhance bundle patch. `dsh plugin --profile <name> add …`
+# discovers this layer through package.json's dsh.bundle declaration.
+- insert:
+    - id: prompt-enhance
+      name: 'dsh-prompt-enhance'
+      config: {}
